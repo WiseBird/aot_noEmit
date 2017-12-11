@@ -1,0 +1,1 @@
+`@ngtools/webpack` emits empty modules when `tsconfig` has `"noEmit": true` even when `compilerOptions` are overridden.
